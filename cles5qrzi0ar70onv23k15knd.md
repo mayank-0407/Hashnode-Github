@@ -11,7 +11,7 @@ tags: python, django, wemakedevs, mayankaggarwal, mayank
 
 In this blog, we will explore the four main HTTP requests used in Django: GET, POST, PUT, and DELETE. We will cover the basics of each request and provide code examples for each.
 
-1. ### GET Request
+* ### GET Request
     
 
 A GET request is used to retrieve data from a server. When a user visits a web page, their browser sends a GET request to the server to retrieve the HTML, CSS, and JavaScript files that make up the page. In Django, you can handle GET requests using the `HttpRequest` object.
@@ -28,7 +28,7 @@ def my_view(request):
         return HttpResponse(data)
 ```
 
-1. ### POST Request
+* ### POST Request
     
 
 A POST request is used to send data to a server. When a user fills out a form on a web page and clicks the submit button, their browser sends a POST request to the server with the form data. In Django, you can handle POST requests using the `HttpRequest` object.
@@ -47,7 +47,7 @@ def my_view(request):
         return HttpResponse('Data saved successfully')
 ```
 
-1. ### PUT Request
+* ### PUT Request
     
 
 A PUT request is used to update an existing resource on the server. In Django, you can handle PUT requests using the `HttpRequest` object.
@@ -63,7 +63,7 @@ def my_view(request, id):
         return HttpResponse('Resource updated successfully')
 ```
 
-1. ### DELETE Request
+* ### DELETE Request
     
 
 A DELETE request is used to delete an existing resource on the server. In Django, you can handle DELETE requests using the `HttpRequest` object.
