@@ -30,7 +30,7 @@ REST stands for Representational State Transfer. It is a design pattern for crea
 
 Django provides a powerful set of tools for building RESTful APIs. The Django Rest Framework (DRF) is a popular extension to Django that makes it even easier to build RESTful APIs. Here's an example of how to create a simple RESTful API using Django and DRF.
 
-1. ### Install Django and Django Rest Framework
+* ### Install Django and Django Rest Framework
     
 
 First, install Django and DRF using pip:
@@ -39,7 +39,7 @@ First, install Django and DRF using pip:
 pip install Django djangorestframework
 ```
 
-1. ### Create a Django Project and App
+* ### Create a Django Project and App
     
 
 Create a new Django project and app:
@@ -50,7 +50,7 @@ cd myproject
 python manage.py startapp myapp
 ```
 
-1. ### Define Models
+* ### Define Models
     
 
 Define your models in [`models.py`](http://models.py):
@@ -67,7 +67,7 @@ class Product(models.Model):
         return self.name
 ```
 
-1. ### Define Serializers
+* ### Define Serializers
     
 
 Serializers convert model instances to JSON format. Define your serializers in [`serializers.py`](http://serializers.py):
@@ -82,7 +82,7 @@ class ProductSerializer(serializers.ModelSerializer):
         fields = ('id', 'name', 'description', 'price')
 ```
 
-1. ### Define Views
+* ### Define Views
     
 
 Views handle requests and responses. Define your views in [`views.py`](http://views.py):
@@ -101,7 +101,7 @@ class ProductDetail(generics.RetrieveUpdateDestroyAPIView):
     serializer_class = ProductSerializer
 ```
 
-1. ### Define URLs
+* ### Define URLs
     
 
 Define your URLs in [`urls.py`](http://urls.py):
@@ -116,7 +116,7 @@ urlpatterns = [
 ]
 ```
 
-1. ### Run the Server
+* ### Run the Server
     
 
 Run the development server:
@@ -125,7 +125,7 @@ Run the development server:
 python manage.py runserver
 ```
 
-1. ### Test the API
+* ### Test the API
     
 
 Test the API using curl or a web browser:
