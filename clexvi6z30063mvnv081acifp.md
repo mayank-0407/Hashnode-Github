@@ -37,8 +37,7 @@ When we call `my_function()`, the log\_decorator will be called first, and it wi
 
 Django provides several built-in decorators that you can use to modify the behavior of your views, functions, and methods. Here are some of the most commonly used decorators in Django:
 
-1. ### @login\_required
-    
+### @login\_required
 
 The `@login_required` decorator is used to restrict access to a view to only logged-in users. If a user is not logged in, they will be redirected to the login page.
 
@@ -50,8 +49,7 @@ def my_view(request):
     # view code here
 ```
 
-1. ### @csrf\_exempt
-    
+### @csrf\_exempt
 
 The `@csrf_exempt` decorator is used to disable the CSRF protection on a view. CSRF protection is enabled by default in Django to prevent cross-site request forgery attacks. However, there may be cases where you want to disable CSRF protection, such as when building a public API.
 
@@ -63,8 +61,7 @@ def my_view(request):
     # view code here
 ```
 
-1. ### @cache\_page
-    
+### @cache\_page
 
 The `@cache_page` decorator is used to cache the output of a view for a specified amount of time. This can improve the performance of your application by reducing the number of requests that need to be processed.
 
@@ -76,8 +73,7 @@ def my_view(request):
     # view code here
 ```
 
-1. ### @require\_http\_methods
-    
+### @require\_http\_methods
 
 The `@require_http_methods` decorator is used to restrict the HTTP methods that a view can respond to. This can be useful for enforcing RESTful API design principles.
 
@@ -89,8 +85,7 @@ def my_view(request):
     # view code here
 ```
 
-1. ### @method\_decorator
-    
+### @method\_decorator
 
 The `@method_decorator` decorator is used to apply a function-level decorator to a class-based view. This is necessary because class-based views are not functions and do not support function-level decorators.
 
