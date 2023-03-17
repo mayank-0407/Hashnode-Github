@@ -78,10 +78,9 @@ user = User.objects.create_user(
 
 In the example above, we have created a User object with the username, email, and password fields.
 
-1. ### Generate Verification Token:
-    
-    Next, we need to generate a verification token. We can use the Django's built-in token generator to generate the token. Here's an example:
-    
+### Generate Verification Token:
+
+Next, we need to generate a verification token. We can use Django's built-in token generator to generate the token. Here's an example:
 
 ```python
 from django.contrib.auth.tokens import default_token_generator
@@ -91,10 +90,9 @@ token = default_token_generator.make_token(user)
 
 In the example above, we have generated a verification token using the default\_token\_generator.
 
-1. ### Create and Send Verification Email:
-    
-    Finally, we can create and send the verification email. Here's an example:
-    
+### Create and Send Verification Email:
+
+Finally, we can create and send the verification email. Here's an example:
 
 ```python
 from django.core.mail import send_mail
