@@ -1,4 +1,13 @@
-# Starting With Blogging
+---
+title: "Starting With Blogging"
+datePublished: Mon Jan 23 2023 15:01:03 GMT+0000 (Coordinated Universal Time)
+cuid: cld7rw7gr000009mcfh160fu0
+slug: starting-with-blogging
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677337055555/92e2cd06-a067-48db-a202-ff30116d78f3.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677337242364/d6f18073-39d1-41ca-b2f6-ceceb4f9a037.png
+tags: intro, blogger-1, wemakedevs, mayankaggarwal, mayank
+
+---
 
 Hello, Mayank Aggarwal this side and welcome to my first blog post! As a beginner, I don't have personal experiences to share, but I would like to take this opportunity to talk about the importance of blogging and what you can expect from this blog.
 
