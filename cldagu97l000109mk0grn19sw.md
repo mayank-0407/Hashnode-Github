@@ -1,4 +1,14 @@
-# Getting Mails from Your static webpage
+---
+title: "Getting Mails from Your static webpage"
+seoTitle: "Serving Clients with Serverless forms."
+datePublished: Tue Jan 24 2023 16:42:43 GMT+0000 (Coordinated Universal Time)
+cuid: cldagu97l000109mk0grn19sw
+slug: getting-mails-from-your-static-webpage
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674581883839/c4233ac1-5848-47f4-be62-de85104d0f8e.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1674581925061/d1882b46-08c0-40cf-a63d-7ebb73c13901.png
+tags: serverless, wemakedevs, mayankaggarwal, mayank, formwithoutbackend
+
+---
 
 ---
 
