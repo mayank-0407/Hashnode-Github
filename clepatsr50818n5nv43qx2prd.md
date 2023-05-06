@@ -1,4 +1,13 @@
-# How to use DateTimeField in Django Models !!
+---
+title: "How to use DateTimeField in Django Models !!"
+datePublished: Wed Mar 01 2023 06:30:39 GMT+0000 (Coordinated Universal Time)
+cuid: clepatsr50818n5nv43qx2prd
+slug: how-to-use-datetimefield-in-django-models
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677320512804/923a290e-8209-4f21-acf7-cac3df24db2c.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677320557840/92bf5930-fc07-4382-903e-480567e6c13b.png
+tags: django, datetime, wemakedevs, mayankaggarwal, mayank
+
+---
 
 Django's `DateTimeField` is a useful field that allows you to store and manipulate date and time data in your models. In this blog, we'll take a closer look at how to use `DateTimeField` in Django, with code examples and images to help illustrate the concepts.
 
