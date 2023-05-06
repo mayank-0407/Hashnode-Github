@@ -1,4 +1,13 @@
-# Creating a Login Page in 2 min
+---
+title: "Creating a Login Page in 2 min"
+datePublished: Fri Feb 24 2023 06:31:39 GMT+0000 (Coordinated Universal Time)
+cuid: clei5ntpm042cddnv3g0phoxq
+slug: creating-a-login-page-in-2-min
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677005190155/27ae725a-0a48-41f2-9c8a-a0d4335734c1.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677005229006/4b06ec1d-2eda-4cc9-a749-98d4b3846883.png
+tags: django, login, wemakedevs, mayankaggarwal, mayank
+
+---
 
 In this tutorial, we will show you how to create a login page with Django, one of the most popular Python web frameworks. We will use Django's built-in authentication system to handle user authentication. Let's get started!
 
