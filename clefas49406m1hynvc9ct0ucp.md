@@ -1,4 +1,13 @@
-# Add a Custom Domain to your website Now!!
+---
+title: "Add a Custom Domain to your website Now!!"
+datePublished: Wed Feb 22 2023 06:31:39 GMT+0000 (Coordinated Universal Time)
+cuid: clefas49406m1hynvc9ct0ucp
+slug: add-a-custom-domain-to-your-website-now
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676918635698/f478406e-d15e-4977-84ce-879e5dfc6efb.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1676918682687/e96ccd37-376d-4f18-9922-73d7168342fe.png
+tags: web-development, domain, wemakedevs, mayankaggarwal, mayank
+
+---
 
 ### Prerequisite:
 
