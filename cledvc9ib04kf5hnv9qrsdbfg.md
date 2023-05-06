@@ -1,4 +1,13 @@
-# Create Thumbnails/logos in 2 min for Free!!
+---
+title: "Create Thumbnails/logos in 2 min for Free!!"
+datePublished: Tue Feb 21 2023 06:31:39 GMT+0000 (Coordinated Universal Time)
+cuid: cledvc9ib04kf5hnv9qrsdbfg
+slug: create-thumbnailslogos-in-2-min-for-free
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676917238587/0f171bbf-f109-45c5-ae2d-4f5f4ac0a019.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1676917321151/adee93fa-b29f-4833-9a3e-66c5f52a8e79.png
+tags: editing, logo-design, wemakedevs, mayankaggarwal, mayank
+
+---
 
 > Whenever we think of starting a YOUTUBE channel or creating blogs, we have a doubt that how to will we be able to create attractive thumbnails or logo's. So here is the best option for this.
 
