@@ -1,4 +1,13 @@
-# Getting Started with Web Development!!
+---
+title: "Getting Started with Web Development!!"
+datePublished: Thu Feb 23 2023 06:31:39 GMT+0000 (Coordinated Universal Time)
+cuid: clegq7ytz02hr4pnvhl8v9qka
+slug: getting-started-with-web-development
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676991963442/233adb81-8834-441b-87f9-33c2fd3e130d.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1676992012010/ac9f9829-49d5-4170-bece-46b8e8d9bbd1.png
+tags: django, web-development, wemakedevs, mayankaggarwal, mayank
+
+---
 
 If you're looking to build web applications using Python, then Django is a great framework to get started with. Django is a powerful, open-source framework that makes it easy to build web applications quickly. In this blog, we will provide you with a beginner's guide to starting with Django, including some tips and resources to help you get started.
 
