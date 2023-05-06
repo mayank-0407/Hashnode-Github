@@ -1,4 +1,13 @@
-# Why did I Choose Django for web dev?
+---
+title: "Why did I Choose Django for web dev?"
+datePublished: Mon Feb 20 2023 18:01:26 GMT+0000 (Coordinated Universal Time)
+cuid: cled4jh9b00040amp5vhwcvun
+slug: why-did-i-choose-django-for-web-dev
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676915983203/99099fa4-8878-4434-a98e-93706d1d01ae.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1676916072329/8fdae053-f107-458d-9400-8238fc6168d8.png
+tags: django, django-rest-framework, wemakedevs, mayankaggarwal, mayank
+
+---
 
 Whenever we think of creating some projects for our college for internships. We think of learning web development or android development. But we don't know how and from which language should we start. So here is my view on this.
 
