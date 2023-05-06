@@ -1,4 +1,13 @@
-# Creating a Signup page from scratch!!
+---
+title: "Creating a Signup page from scratch!!"
+datePublished: Sat Feb 25 2023 06:31:38 GMT+0000 (Coordinated Universal Time)
+cuid: clejl3nza00ek9inv7j1fag8e
+slug: creating-a-signup-page-from-scratch
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677006487049/8de2e346-2cc6-4947-96cc-7d3dbb348294.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677006541522/41078dee-800f-4196-97ab-b0412a2a0f47.png
+tags: django, wemakedevs, mayankaggarwal, mayank, signup-page
+
+---
 
 Django is a powerful and popular web framework for building web applications. In this blog, we will discuss how to create a signup page in Django from scratch, using Python code.
 
