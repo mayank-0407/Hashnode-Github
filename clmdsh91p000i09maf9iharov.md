@@ -4,7 +4,7 @@ datePublished: Sun Sep 10 2023 18:29:11 GMT+0000 (Coordinated Universal Time)
 cuid: clmdsh91p000i09maf9iharov
 slug: mastering-nodejs-from-fundamentals-to-production-ready-apps
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694670254074/537daf16-695b-4f4f-a89e-f7ce3ebee5de.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1694361504750/40c25f88-28a3-4b1d-bffd-16047008363a.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1694670293892/9ed6fc90-4c23-4492-b92f-9382aa23ed60.png
 tags: mongodb, nodejs, wemakedevs, mayankaggarwal, mayank
 
 ---
