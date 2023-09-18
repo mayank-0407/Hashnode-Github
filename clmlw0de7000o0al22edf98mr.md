@@ -9,6 +9,8 @@ tags: github, git, wemakedevs, mayankaggarwal, mayank
 
 ---
 
+# Introduction
+
 In the world of software development, version control is an essential tool. It allows developers to track changes, collaborate efficiently, and manage codebase history. Git and GitHub are two of the most popular tools for version control and collaboration, respectively. In this comprehensive guide, we will explore what Git and GitHub are, how they work, and how to use GitHub with Git, accompanied by practical examples.
 
 ## What is Git?
