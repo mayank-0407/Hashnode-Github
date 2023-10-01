@@ -1,8 +1,8 @@
 ---
-title: "Building a ToDo App with User Authentication in Django"
+title: "Make Your First Project with User Authentication in Django"
 datePublished: Sun Oct 01 2023 05:30:12 GMT+0000 (Coordinated Universal Time)
 cuid: cln70wcpm000509jsbkovgssu
-slug: building-a-todo-app-with-user-authentication-in-django
+slug: make-your-first-project-with-user-authentication-in-django
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696099215176/3f394ede-269e-4fac-aba6-2e70f04a7cff.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696099399264/aadd9f9c-9a9a-4a67-aa44-deeac00961f8.png
 tags: django, todoapp, wemakedevs, mayankaggarwal, mayank
