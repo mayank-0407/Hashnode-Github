@@ -1,8 +1,8 @@
 ---
-title: "Mastering Loops in JavaScript || Part 4"
+title: "Mastering JavaScript  Loops || Part 4"
 datePublished: Mon Nov 13 2023 06:29:09 GMT+0000 (Coordinated Universal Time)
 cuid: clowixsjl000i08jifgrl60kf
-slug: mastering-loops-in-javascript-part-4
+slug: mastering-javascript-loops-part-4
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698927932188/d905f677-293a-4e76-913b-9909b7f051dc.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1698927963846/1a36a5dd-e53e-4aba-8ef1-fb35e36a7ad5.png
 tags: javascript, guide, wemakedevs, mayankaggarwal, mayank
