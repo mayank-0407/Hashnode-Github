@@ -3,7 +3,7 @@ title: "Mastering NodeJS: A Comprehensive Guide to Node Js REPL|| Lesson - 1"
 datePublished: Wed Dec 27 2023 06:31:10 GMT+0000 (Coordinated Universal Time)
 cuid: clqnedv6o000708ie0phw2nsk
 slug: mastering-nodejs-a-comprehensive-guide-to-node-js-repl-lesson-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703527232941/8b3d924e-21b8-49ea-adfb-8a33dc76014d.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703780195229/649e53de-c066-4e85-a0e5-fee310043528.gif
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1703527271891/6fe75770-3337-4040-ad9d-e96d46957a42.gif
 tags: javascript, nodejs, wemakedevs, mayankaggarwal, mayank
 
