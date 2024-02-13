@@ -1,8 +1,8 @@
 ---
-title: "Mastering React: A Guide to Events, State, and Hooks for Dynamic UIs|| Lesson - 3"
+title: "Mastering React: A Guide to Events, State, and Hooks for Dynamic UrIs|| Lesson - 3"
 datePublished: Mon Feb 12 2024 06:31:33 GMT+0000 (Coordinated Universal Time)
 cuid: clsik3ece000x08l58ojle29p
-slug: mastering-react-a-guide-to-events-state-and-hooks-for-dynamic-uis-lesson-3
+slug: mastering-react-a-guide-to-events-state-and-hooks-for-dynamic-uris-lesson-3
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707582038715/706edfe1-8154-4fec-b6fc-573de32adcd5.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1707582054332/4867eed2-0e05-4b93-893d-b7183f85664a.png
 tags: javascript, react-js, reactjs, wemakedevs, mayankaggarwal, mayank
